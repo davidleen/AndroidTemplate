@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <item type="layout"  name="waterfall_template_activity" >@layout/waterfall_template_activity_landscape</item>
+
+</resources>
